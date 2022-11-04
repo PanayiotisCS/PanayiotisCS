@@ -1,8 +1,6 @@
 ### Hi, I am Panayiotis 👋
 
-#### I'm an MSc Advanced Software Technology student at Swansea University.
-
-
+#### I'm a junior eHealth Developer @University of Cyprus. From Nicosia, Cyprus
 
  #### 🧰 Languages & Tools
 <p align="left">
