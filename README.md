@@ -1,6 +1,6 @@
 ## Hi, I am Panayiotis 👋
 
-#### I'm a junior eHealth Developer @University of Cyprus. 
+#### I'm a Full Stack Developer @NetU Consultants Ltd. 
 #### From Nicosia, Cyprus
 
 - C#
